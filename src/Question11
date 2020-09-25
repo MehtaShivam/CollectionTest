@@ -1,0 +1,5 @@
+The differences in String, StringBuffer, and StringBuilder are:
+where they are stored (heap or string pool),
+their mutability,
+performance,
+and syntax

@@ -1,0 +1,5 @@
+The difference between Array and ArrayList are:
+fixed size vs. dynamic size
+primitive data types vs allowing objects and other data types
+traversing forward vs traversing forward and backwards
+	
